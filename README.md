@@ -98,3 +98,55 @@ Built with <b>Next.js 14 App Router, TypeScript, and Tailwind CSS</b>, focusing 
 - < 100ms interaction latency
 
 - Lighthouse Score: 90+ (Mobile & Desktop)
+
+## 🧪 Lighthouse & Quality
+
+* Performance: 90+
+
+* Accessibility: 90+
+
+* Best Practices: 90+
+
+* SEO: 90+
+
+## 🛠 Getting Started
+
+#### Prerequisites
+
+* Node.js 18+
+
+* npm / pnpm / yarn
+
+#### Installation
+
+``` bash
+
+git clone https://github.com/csprajwalpb/token_trading.git
+cd token_trading
+npm install
+
+```
+#### Development
+
+``` bash
+
+npm run dev
+
+```
+
+#### Production Build
+
+``` bash
+
+npm run build
+npm start
+
+```
+
+## 🧑‍💻 Author
+
+### Prajwal P B
+#### Software Developer | MERN | Performance-Focused UI
+🔗 GitHub: https://github.com/csprajwalpb
+
+## Screenshots
