@@ -4,101 +4,97 @@
 
 Built with <b>Next.js 14 App Router, TypeScript, and Tailwind CSS</b>, focusing on smooth real-time updates, reusable architecture, and production-grade performance.
 
-🔗 Live Demo: https://token-trading-mauve.vercel.app
+🔗 Live Demo: https://token-trading-mauve.vercel.app <br>
 📦 Repository: https://github.com/csprajwalpb/token_trading
 
 ## 🚀 Features
 ### Core Functionality
 
-All Token Columns Implemented
+* All Token Columns Implemented
 
-New Pairs
+- New Pairs
 
-Final Stretch
+- Final Stretch
 
-Migrated
+- Migrated
 
-🔄 Real-time Price Updates
+* Real-time Price Updates
 
-WebSocket mock with smooth up/down color transitions
+- WebSocket mock with smooth up/down color transitions
 
-📊 Sorting & Filtering
+* Sorting & Filtering
 
-Price, volume, change %, liquidity
+- Price, volume, change %, liquidity
 
-🧩 Multiple Interaction Patterns
+* Multiple Interaction Patterns
 
-Hover effects
+- Hover effects
 
-Click actions
+- Click actions
 
-Tooltips
+- Tooltips
 
-Popovers
+- Popovers
 
-Modals
+- Modals
 
-⏳ Advanced Loading States
+* Advanced Loading States
 
-Skeleton loaders
+- Skeleton loaders
 
-Shimmer effects
+- Shimmer effects
 
-Progressive loading
+- Progressive loading
 
-🛡 Error Boundaries
+* Error Boundaries
 
-Graceful fallback UI on failures
+- Graceful fallback UI on failures
 
-🎯 Pixel-Perfect UI
+## 🎯 Pixel-Perfect UI
 
-Matched against Axiom Trade Pulse with ≤ 2px deviation
+- Matched against Axiom Trade Pulse with ≤ 2px deviation
 
-Verified using visual regression techniques
+- Verified using visual regression techniques
 
-No layout shifts (CLS = 0)
+- No layout shifts (CLS = 0)
 
-Fully responsive (mobile + desktop)
+- Fully responsive (mobile + desktop)
 
-🧠 Architecture & Code Quality
-Tech Stack
+## 🧠 Architecture & Code Quality
+### Tech Stack
 
-Framework: Next.js 14 (App Router)
+* Framework: Next.js 14 (App Router)
 
-Language: TypeScript (strict mode)
+* Language: TypeScript (strict mode)
 
-Styling: Tailwind CSS
+* Styling: Tailwind CSS
 
-State Management: Redux Toolkit
+* State Management: Redux Toolkit
 
-Data Fetching: React Query
+* Data Fetching: React Query
 
-UI Components: shadcn/ui + Radix UI
+* UI Components: shadcn/ui + Radix UI
 
-Animations: CSS transitions (GPU-friendly)
+* Animations: CSS transitions (GPU-friendly)
 
-Architecture
+### Architecture
 
-🧱 Atomic Design Pattern
+* Reusable Components
 
-atoms / molecules / organisms
+* Custom Hooks for shared logic
 
-♻️ Reusable Components
+* Shared Utilities & Constants
 
-🪝 Custom Hooks for shared logic
+* No duplicated logic (DRY principles)
 
-🧰 Shared Utilities & Constants
+## ⚡ Performance Optimizations
 
-❌ No duplicated logic (DRY principles)
+- Memoized components (React.memo, useCallback, useMemo)
 
-⚡ Performance Optimizations
+- Optimized table rendering
 
-Memoized components (React.memo, useCallback, useMemo)
+- Zero layout shifts
 
-Optimized table rendering
+- < 100ms interaction latency
 
-Zero layout shifts
-
-< 100ms interaction latency
-
-Lighthouse Score: 90+ (Mobile & Desktop)
+- Lighthouse Score: 90+ (Mobile & Desktop)
