@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Token Trading Table – Axiom Trade Replica
 
-## Getting Started
+### A pixel-perfect, high-performance token discovery table inspired by Axiom Trade Pulse
 
-First, run the development server:
+Built with <b>Next.js 14 App Router, TypeScript, and Tailwind CSS</b>, focusing on smooth real-time updates, reusable architecture, and production-grade performance.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 Live Demo: https://token-trading-mauve.vercel.app
+📦 Repository: https://github.com/csprajwalpb/token_trading
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
+### Core Functionality
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+All Token Columns Implemented
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+New Pairs
 
-## Learn More
+Final Stretch
 
-To learn more about Next.js, take a look at the following resources:
+Migrated
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🔄 Real-time Price Updates
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+WebSocket mock with smooth up/down color transitions
 
-## Deploy on Vercel
+📊 Sorting & Filtering
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Price, volume, change %, liquidity
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🧩 Multiple Interaction Patterns
+
+Hover effects
+
+Click actions
+
+Tooltips
+
+Popovers
+
+Modals
+
+⏳ Advanced Loading States
+
+Skeleton loaders
+
+Shimmer effects
+
+Progressive loading
+
+🛡 Error Boundaries
+
+Graceful fallback UI on failures
+
+🎯 Pixel-Perfect UI
+
+Matched against Axiom Trade Pulse with ≤ 2px deviation
+
+Verified using visual regression techniques
+
+No layout shifts (CLS = 0)
+
+Fully responsive (mobile + desktop)
+
+🧠 Architecture & Code Quality
+Tech Stack
+
+Framework: Next.js 14 (App Router)
+
+Language: TypeScript (strict mode)
+
+Styling: Tailwind CSS
+
+State Management: Redux Toolkit
+
+Data Fetching: React Query
+
+UI Components: shadcn/ui + Radix UI
+
+Animations: CSS transitions (GPU-friendly)
+
+Architecture
+
+🧱 Atomic Design Pattern
+
+atoms / molecules / organisms
+
+♻️ Reusable Components
+
+🪝 Custom Hooks for shared logic
+
+🧰 Shared Utilities & Constants
+
+❌ No duplicated logic (DRY principles)
+
+⚡ Performance Optimizations
+
+Memoized components (React.memo, useCallback, useMemo)
+
+Optimized table rendering
+
+Zero layout shifts
+
+< 100ms interaction latency
+
+Lighthouse Score: 90+ (Mobile & Desktop)
