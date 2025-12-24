@@ -10,7 +10,7 @@ Built with <b>Next.js 14 App Router, TypeScript, and Tailwind CSS</b>, focusing 
 ## 🚀 Features
 ### Core Functionality
 
-* All Token Columns Implemented
+#### All Token Columns Implemented
 
 - New Pairs
 
@@ -18,15 +18,15 @@ Built with <b>Next.js 14 App Router, TypeScript, and Tailwind CSS</b>, focusing 
 
 - Migrated
 
-* Real-time Price Updates
+#### Real-time Price Updates
 
 - WebSocket mock with smooth up/down color transitions
 
-* Sorting & Filtering
+#### Sorting & Filtering
 
 - Price, volume, change %, liquidity
 
-* Multiple Interaction Patterns
+#### Multiple Interaction Patterns
 
 - Hover effects
 
@@ -38,7 +38,7 @@ Built with <b>Next.js 14 App Router, TypeScript, and Tailwind CSS</b>, focusing 
 
 - Modals
 
-* Advanced Loading States
+#### Advanced Loading States
 
 - Skeleton loaders
 
