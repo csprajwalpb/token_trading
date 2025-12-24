@@ -150,3 +150,8 @@ npm start
 🔗 GitHub: https://github.com/csprajwalpb
 
 ## Screenshots
+
+<img width="1919" height="1199" alt="Screenshot 2025-12-24 152828" src="https://github.com/user-attachments/assets/25a2c68c-f1fc-4d66-9e7e-63618667f383" /><br>
+
+<img width="1919" height="1199" alt="Screenshot 2025-12-24 152904" src="https://github.com/user-attachments/assets/62b24cc2-c949-413a-b5e5-0323e14e09bd" />
+
